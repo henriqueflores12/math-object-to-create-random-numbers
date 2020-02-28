@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  display: grid;
+  justify-content: center;
+}
+#info {
+  height: 300px;
+  width: 500px;
+  border: solid 40px whitesmoke;
+  margin-top: 20%;
+  background-color: blue;
+  font-style: italic;
+  font-size: 40px;
+}
+#info1 {
+  height: 300px;
+  width: 500px;
+  border: solid 40px whitesmoke;
+  margin-top: 20%;
+  background-color: blue;
+  font-style: italic;
+  font-size: 40px;
+}
+#box {
+  height: 300px;
+  width: 500px;
+  border: solid 40px whitesmoke;
+  background-color: blue;
+  font-style: italic;
+  font-size: 40px;
+  display: grid;
+  justify-content: center;
+}
